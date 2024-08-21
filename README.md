@@ -32,4 +32,4 @@ This Python script is designed to scan files in a specified directory for known 
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/MAHMOUDOMAR01/virus_scanner.git
